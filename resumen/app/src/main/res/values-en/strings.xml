@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">summary</string>
+    <string name="textnombre">Name</string>
+    <string name="hintnombre">Write your name</string>
+    <string name="textapellido">Last Name</string>
+    <string name="hintapellido">Write your Last Name</string>
+    <string name="texttelefono">Phone</string>
+    <string name="hinttelefono">Write your phone</string>
+    <string name="textweb">Web</string>
+    <string name="hintweb">Write your web</string>
+    <string name="btnMostrar">Display</string>
+    <string name="btnBorrar">Delete</string>
+    <string name="errorEmpyNombre">Write your name</string>
+    <string name="errorEmpyApellido">Write your Last Name</string>
+    <string name="errorEmpyTelefono">Write your phone</string>
+    <string name="errorEmpyWeb">Write your web</string>
+    <string name="errorEmpy">¡There is some empty field!</string>
+    <string name="userOK">¡ User saved successfully!</string>
+    <string name="msgAlert">¿Are you sure you want to delete the fields?</string>
+    <string name="btnAlertSi">YES</string>
+    <string name="btnAlertNo">NO</string>
+    <string name="btnReset">Reset</string>
+</resources>

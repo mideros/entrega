@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">resumen</string>
+    <string name="textnombre">Nombre</string>
+    <string name="hintnombre">Escribe tu Nombre</string>
+    <string name="textapellido">Apellido</string>
+    <string name="hintapellido">Escribe tu Apellido</string>
+    <string name="texttelefono">telefono:</string>
+    <string name="hinttelefono">Escribe tu telefono </string>
+    <string name="textweb">Web</string>
+    <string name="hintweb">Escribe la web</string>
+    <string name="btnMostrar">Motrar</string>
+    <string name="btnBorrar">Borrar</string>
+    <string name="errorEmpyNombre">Escribe tu nombre</string>
+    <string name="errorEmpyApellido">Escribe tu Apellido</string>
+    <string name="errorEmpyTelefono">Escribe tu telefono</string>
+    <string name="errorEmpyWeb">Escribe la web</string>
+    <string name="errorEmpy">¡Existe algun campo vacio!</string>
+    <string name="userOK">¡Usuario guardado correctamente!</string>
+    <string name="msgAlert">¿Seguro que desea borrar los datos?</string>
+    <string name="btnAlertSi">SI</string>
+    <string name="btnAlertNo">NO</string>
+    <string name="btnReset">Reset</string>
+</resources>
